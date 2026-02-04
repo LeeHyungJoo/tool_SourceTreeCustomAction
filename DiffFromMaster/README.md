@@ -1,4 +1,4 @@
-#DiffFromMaster
+# DiffFromMaster
 
 소스트리(SourceTree)에서 특정 커밋을 선택하면,  
 **Master 브랜치와 비교한 변경 사항**을 **Beyond Compare 4**를 이용해 HTML 리포트로 만들어주는 스크립트.
